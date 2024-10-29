@@ -1,0 +1,20 @@
+.cards {
+
+	display: flex ;
+	flex-wrap: wr;
+	width: 500px;
+	flex-grow: 1;
+	box-flex: 3;
+}
+
+@media (max-width:760px) {
+   .cards {
+      width: 600px;
+   }
+}
+
+@media (max-width: 500px) {
+.cards {
+   width: 400px;
+}
+}

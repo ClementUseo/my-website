@@ -1,0 +1,13 @@
+.btn-red {
+background-color: #C62E2E;
+padding: 20px 25px;
+border-radius: 10px;
+color: white;
+font-family:"Roboto", serif; 
+font-weight: bold;
+font-size: 20px;
+}
+
+.btn-red:hover {
+background-color: #800000 ;
+}
